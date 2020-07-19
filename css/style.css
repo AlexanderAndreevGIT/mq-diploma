@@ -162,8 +162,8 @@ body {
 
 .athlets__image {
   width: 55%;
-  height: auto;
   max-width: 210px;
+  height: 100%;
 }
 
 .athlets-players__content {
@@ -250,6 +250,7 @@ body {
 .players__image {
   width: 95%;
   max-width: 410px;
+  height: 100%;
 }
 
 .athlets-players__row_blue-bg {
