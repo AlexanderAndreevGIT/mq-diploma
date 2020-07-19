@@ -162,6 +162,7 @@ body {
 
 .athlets__image {
   width: 55%;
+  height: auto;
   max-width: 210px;
 }
 
