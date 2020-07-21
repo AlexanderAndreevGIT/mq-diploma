@@ -247,6 +247,10 @@ body {
   margin: 23px 20px 0 20px;
 }
 
+.players__card {
+    overflow: hidden;
+  }
+
 .players__image {
   width: 95%;
   max-width: 410px;
